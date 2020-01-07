@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\bin\Debug\GTA SA-MP Launcher.exe.config
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\bin\Debug\GTA SA-MP Launcher.exe
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\bin\Debug\GTA SA-MP Launcher.pdb
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA SA-MP Launcher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA_SA_MP_Launcher.Form1.resources
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA_SA_MP_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA SA-MP Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA SA-MP Launcher.exe
+C:\Users\User\source\repos\GTA SA-MP Launcher\GTA SA-MP Launcher\obj\Debug\GTA SA-MP Launcher.pdb
